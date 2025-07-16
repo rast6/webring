@@ -193,20 +193,13 @@
       "desc": "A bold claim, but maybe true. Explore Mars's site.",
       "url": "https://marsland.neocities.org/",
       "owner": "mars",
-      "button": ""
+      "button": "https://marsland.neocities.org/assets/bt-marsland.gif"
     },
     {
       "name": "KASPERSPACE",
       "desc": "Kasper's own piece of digital space.",
       "url": "https://kasperspace.nekoweb.org/",
       "owner": "kasperspace",
-      "button": ""
-    },
-    {
-      "name": "M lingen's Site!",
-      "desc": "Lules' oddities and curious collections.",
-      "url": "https://lules-oddities.vercel.app/",
-      "owner": "M lingen",
       "button": ""
     },
     {
