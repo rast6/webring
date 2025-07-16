@@ -49,13 +49,6 @@
       "button": ""
     },
     {
-      "name": "Sphurl Smith's Personal Hub",
-      "desc": "The online home of Sphurl Smith. Projects, thoughts, and more.",
-      "url": "https://sphurlsmith.neocities.org/",
-      "owner": "sphurlsmith",
-      "button": ""
-    },
-    {
       "name": "chillbro's Cool Site",
       "desc": "A chill space made by chillbro. Probably very cool.",
       "url": "https://chillbro.leprd.space/",
@@ -84,13 +77,6 @@
       "button": "https://stackingbooks.neocities.org/content/imgs/pngs/button.png"
     },
     {
-      "name": "Anonicus's Site.",
-      "desc": "Anonicus's personal homepage. Who knows what you'll find?",
-      "url": "https://anonicus.net/",
-      "owner": "Anonicus",
-      "button": ""
-    },
-    {
       "name": "Lime360's Cool Site.",
       "desc": "Lime360's personal homepage.",
       "url": "https://yoyle.city/",
@@ -102,14 +88,14 @@
       "desc": "A spooky personal site from CoffinSleeper.",
       "url": "https://coffinsleeper.neocities.org/",
       "owner": "coffinsleeper",
-      "button": ""
+      "button": "https://i.imgur.com/5MsayLI.png"
     },
     {
       "name": "oerrorpage's Site.",
       "desc": "Personal page of oerrorpage.",
       "url": "https://oerrorpage.neocities.org/",
       "owner": "oerrorpage",
-      "button": ""
+      "button": "https://i.imgur.com/83W6Zyv.png"
     },
     {
       "name": "Joshtrademark's site",
@@ -158,21 +144,21 @@
       "desc": "Abby's notebook and personal web spot.",
       "url": "https://abbys-notebook.neocities.org/",
       "owner": "Abygail!",
-      "button": ""
+      "button": "https://abbys-notebook.neocities.org/Abbys_button.gif"
     },
     {
       "name": "Dave's Site",
       "desc": "Dave's place on the Neocities cult.",
       "url": "https://antirqdavescult.neocities.org/",
       "owner": "Dave",
-      "button": ""
+      "button": "https://antirqdavescult.neocities.org/Button!.png"
     },
     {
       "name": "baccyflap's Site",
       "desc": "No-AI Webring",
       "url": "https://baccyflap.com/",
       "owner": "baccyflap",
-      "button": ""
+      "button": "https://baccyflap.com/mus/links/button.gif"
     },
     {
       "name": "psicosis's Spanish Site!",
@@ -207,35 +193,28 @@
       "desc": "A beautifully crafted site by Eunice.",
       "url": "https://serennau.co.uk/",
       "owner": "Eunice",
-      "button": ""
+      "button": "https://serennau.co.uk/serennau.png"
     },
     {
       "name": "Kitnomalie's Epic Site!",
       "desc": "Cool, cute, and creative web corner.",
       "url": "https://kitnomaly.neocities.org/",
       "owner": "kitnomaly",
-      "button": ""
+      "button": "https://files.catbox.moe/orlosd.png"
     },
     {
       "name": "SleepyCalaban's Epic Site!",
       "desc": "A sleepy circus of art, stories, and personality.",
       "url": "https://sleepycircus.neocities.org/",
       "owner": "SleepyCalaban",
-      "button": ""
-    },
-    {
-      "name": "Buster Biggins's Very Retro Site!",
-      "desc": "Step back in time with this retro-styled web shrine.",
-      "url": "https://www.geocities.ws/elijah2009/",
-      "owner": "Buster Biggins",
-      "button": ""
+      "button": "https://sleepycircus.neocities.org/button.gif"
     },
     {
       "name": "brooklynights",
       "desc": "thru windows to interstellar activity",
       "url": "https://brooklynights.nekoweb.org/",
       "owner": "brooklynights",
-      "button": ""
+      "button": "https://brooklynights.nekoweb.org/content/buttons/own/concat.gif"
     },
     {
       "name": "CHROMIX",
