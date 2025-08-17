@@ -292,6 +292,41 @@
       "url": "https://katrickthekirbyfan.nekoweb.org/",
       "owner": "Katrick",
       "button": "https://katrickthekirbyfan.nekoweb.org/katrickbutton.png"
+    },
+    {
+      "name": "Blaze's Stash",
+      "desc": "A place to learn about me, and to chill out!",
+      "url": "https://blazermaze.neocities.org/",
+      "owner": "Blaze",
+      "button": ""
+    },
+    {
+      "name": "Sap: By Willa",
+      "desc": "personal site for my my music collection and interests!",
+      "url": "https://willascool.neocities.org/",
+      "owner": "Willa Bruning",
+      "button": "https://willascool.neocities.org/SapButton2.png"
+    },
+    {
+      "name": "the matildenet",
+      "desc": "my personal blog with all the things I love",
+      "url": "https://thematildenet.neocities.org/",
+      "owner": "matilde",
+      "button": "https://i.ibb.co/q3Xsd7bd/download.png"
+    },
+    {
+      "name": "expect.eu",
+      "desc": "my place on the internet and my projects which die out like flies :p",
+      "url": "https://whatdidyouexpect.eu/",
+      "owner": "whatdidyouexpect",
+      "button": ""
+    },
+    {
+      "name": "Nova's Corner",
+      "desc": "Personal corner of the interwebs, has art, a blog and some other fun stuff to check out! Oh and a guestbook too.",
+      "url": "https://pastel-skies.nekoweb.org/",
+      "owner": "Nova Galaxium",
+      "button": ""
     }
   ]
   
