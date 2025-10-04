@@ -378,10 +378,38 @@
       "button": "https://i.ibb.co/f3tdLH2/almond.gif"
     },
     {
-      "name": "Vidiill website",
-      "desc": "An gaming website! (Unfinished still)",
-      "url": "https://vidiill.neocities.org/",
-      "owner": "Vidiill",
+      "name": "Kityyyyyyy",
+      "desc": "My website where I write and experiment.",
+      "url": "https://kityyyyyyy.neocities.org/",
+      "owner": "Xorg",
+      "button": "https://kityyyyyyy.neocities.org/images/button-2.gif"
+    },
+    {
+      "name": "the r3ckoning",
+      "desc": "now with more fish!",
+      "url": "https://r3ckoning.nekoweb.org/",
+      "owner": "r3ck",
+      "button": "https://r3ckoning.nekoweb.org/fishy-animated.gif"
+    },
+    {
+      "name": "Jugproductions",
+      "desc": "super girly website for girls MADE by a girl... it also archives most of my art lol",
+      "url": "https://jugproductions.neocities.org/",
+      "owner": "Jug",
+      "button": "https://jugproductions.neocities.org/jugbutton.gif"
+    },
+    {
+      "name": "METEOR_55",
+      "desc": "Personal sitey site that is very fun!!!!! Woohoo!!!! I talk about things and makefunny pages (That are all wip) Come say hallo :o3",
+      "url": "https://meteor-55.nekoweb.org/",
+      "owner": "meteor_55",
+      "button": ""
+    },
+    {
+      "name": " Epic City ",
+      "desc": " the epicest site for awesome people of all sorts ",
+      "url": "https://epiccity.nekoweb.org/",
+      "owner": "azzy",
       "button": ""
     }
   ]
